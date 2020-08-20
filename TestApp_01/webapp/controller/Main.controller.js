@@ -5,7 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("de.arvato.TestApp_01.controller.Main", {
 		onInit: function () {
-
+			// Test
 		}
 	});
 });
